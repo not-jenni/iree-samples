@@ -1,0 +1,13 @@
+# Android Studio / Gradle files
+.gradle/
+.idea/
+gradle/
+gradlew
+gradlew.bat
+
+# Build artifacts
+app/build/
+lib_interpreter/build/
+
+# Local settings
+local.properties
